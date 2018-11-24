@@ -1,15 +1,6 @@
 # Big-Decimal-Integer
 Big Decimal Integer with overloading (+) and (-) operators.
 
-    ///main cpp
-
-    
-
-
-    /// BigDecimalInt .h
-
-    
-
-     ///BigDecimalInt.cpp
+Big Decimal Integer is a programm takes an unlimtted integer using string and can makes operators + and - on it.
 
     
